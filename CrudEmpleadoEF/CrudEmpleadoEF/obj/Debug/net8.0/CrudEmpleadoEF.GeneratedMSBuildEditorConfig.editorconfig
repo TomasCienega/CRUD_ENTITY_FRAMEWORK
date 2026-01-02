@@ -1,12 +1,22 @@
 is_global = true
 build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
 build_property.TargetPlatformMinVersion = 
 build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.TargetFrameworkIdentifier = .NETCoreApp
+build_property.TargetFrameworkVersion = v8.0
 build_property.RootNamespace = CrudEmpleadoEF
 build_property.RootNamespace = CrudEmpleadoEF
 build_property.ProjectDir = C:\Users\tomas\Downloads\EjerciciosDeProgramacion\CRUD_ENTITY_FRAMEWORK\CrudEmpleadoEF\CrudEmpleadoEF\
@@ -19,6 +29,18 @@ build_property.MSBuildProjectDirectory = C:\Users\tomas\Downloads\EjerciciosDePr
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/tomas/Downloads/EjerciciosDeProgramacion/CRUD_ENTITY_FRAMEWORK/CrudEmpleadoEF/CrudEmpleadoEF/Views/Empleado/EditarEmpl.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9cRWRpdGFyRW1wbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tomas/Downloads/EjerciciosDeProgramacion/CRUD_ENTITY_FRAMEWORK/CrudEmpleadoEF/CrudEmpleadoEF/Views/Empleado/ListaEmpleados.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9cTGlzdGFFbXBsZWFkb3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tomas/Downloads/EjerciciosDeProgramacion/CRUD_ENTITY_FRAMEWORK/CrudEmpleadoEF/CrudEmpleadoEF/Views/Empleado/NuevoEmpl.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9cTnVldm9FbXBsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/tomas/Downloads/EjerciciosDeProgramacion/CRUD_ENTITY_FRAMEWORK/CrudEmpleadoEF/CrudEmpleadoEF/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=

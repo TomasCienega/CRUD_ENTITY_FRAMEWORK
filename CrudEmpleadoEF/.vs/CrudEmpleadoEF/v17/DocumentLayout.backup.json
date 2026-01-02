@@ -1,12 +1,88 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\tomas\\Downloads\\EjerciciosDeProgramacion\\CRUD_ENTITY_FRAMEWORK\\CrudEmpleadoEF\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74583B32-DABA-4127-95ED-FEDE77E41C6E}|CrudEmpleadoEF\\CrudEmpleadoEF.csproj|c:\\users\\tomas\\downloads\\ejerciciosdeprogramacion\\crud_entity_framework\\crudempleadoef\\crudempleadoef\\views\\empleado\\listaempleados.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{74583B32-DABA-4127-95ED-FEDE77E41C6E}|CrudEmpleadoEF\\CrudEmpleadoEF.csproj|solutionrelative:crudempleadoef\\views\\empleado\\listaempleados.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74583B32-DABA-4127-95ED-FEDE77E41C6E}|CrudEmpleadoEF\\CrudEmpleadoEF.csproj|c:\\users\\tomas\\downloads\\ejerciciosdeprogramacion\\crud_entity_framework\\crudempleadoef\\crudempleadoef\\views\\empleado\\nuevoempl.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{74583B32-DABA-4127-95ED-FEDE77E41C6E}|CrudEmpleadoEF\\CrudEmpleadoEF.csproj|solutionrelative:crudempleadoef\\views\\empleado\\nuevoempl.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74583B32-DABA-4127-95ED-FEDE77E41C6E}|CrudEmpleadoEF\\CrudEmpleadoEF.csproj|c:\\users\\tomas\\downloads\\ejerciciosdeprogramacion\\crud_entity_framework\\crudempleadoef\\crudempleadoef\\views\\empleado\\editarempl.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{74583B32-DABA-4127-95ED-FEDE77E41C6E}|CrudEmpleadoEF\\CrudEmpleadoEF.csproj|solutionrelative:crudempleadoef\\views\\empleado\\editarempl.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74583B32-DABA-4127-95ED-FEDE77E41C6E}|CrudEmpleadoEF\\CrudEmpleadoEF.csproj|c:\\users\\tomas\\downloads\\ejerciciosdeprogramacion\\crud_entity_framework\\crudempleadoef\\crudempleadoef\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74583B32-DABA-4127-95ED-FEDE77E41C6E}|CrudEmpleadoEF\\CrudEmpleadoEF.csproj|solutionrelative:crudempleadoef\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EditarEmpl.cshtml",
+              "DocumentMoniker": "C:\\Users\\tomas\\Downloads\\EjerciciosDeProgramacion\\CRUD_ENTITY_FRAMEWORK\\CrudEmpleadoEF\\CrudEmpleadoEF\\Views\\Empleado\\EditarEmpl.cshtml",
+              "RelativeDocumentMoniker": "CrudEmpleadoEF\\Views\\Empleado\\EditarEmpl.cshtml",
+              "ToolTip": "C:\\Users\\tomas\\Downloads\\EjerciciosDeProgramacion\\CRUD_ENTITY_FRAMEWORK\\CrudEmpleadoEF\\CrudEmpleadoEF\\Views\\Empleado\\EditarEmpl.cshtml",
+              "RelativeToolTip": "CrudEmpleadoEF\\Views\\Empleado\\EditarEmpl.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-02T21:54:34.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NuevoEmpl.cshtml",
+              "DocumentMoniker": "C:\\Users\\tomas\\Downloads\\EjerciciosDeProgramacion\\CRUD_ENTITY_FRAMEWORK\\CrudEmpleadoEF\\CrudEmpleadoEF\\Views\\Empleado\\NuevoEmpl.cshtml",
+              "RelativeDocumentMoniker": "CrudEmpleadoEF\\Views\\Empleado\\NuevoEmpl.cshtml",
+              "ToolTip": "C:\\Users\\tomas\\Downloads\\EjerciciosDeProgramacion\\CRUD_ENTITY_FRAMEWORK\\CrudEmpleadoEF\\CrudEmpleadoEF\\Views\\Empleado\\NuevoEmpl.cshtml",
+              "RelativeToolTip": "CrudEmpleadoEF\\Views\\Empleado\\NuevoEmpl.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-30T19:18:47.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ListaEmpleados.cshtml",
+              "DocumentMoniker": "C:\\Users\\tomas\\Downloads\\EjerciciosDeProgramacion\\CRUD_ENTITY_FRAMEWORK\\CrudEmpleadoEF\\CrudEmpleadoEF\\Views\\Empleado\\ListaEmpleados.cshtml",
+              "RelativeDocumentMoniker": "CrudEmpleadoEF\\Views\\Empleado\\ListaEmpleados.cshtml",
+              "ToolTip": "C:\\Users\\tomas\\Downloads\\EjerciciosDeProgramacion\\CRUD_ENTITY_FRAMEWORK\\CrudEmpleadoEF\\CrudEmpleadoEF\\Views\\Empleado\\ListaEmpleados.cshtml",
+              "RelativeToolTip": "CrudEmpleadoEF\\Views\\Empleado\\ListaEmpleados.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-30T18:41:04.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmpleadoController.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\Downloads\\EjerciciosDeProgramacion\\CRUD_ENTITY_FRAMEWORK\\CrudEmpleadoEF\\CrudEmpleadoEF\\Controllers\\EmpleadoController.cs",
+              "RelativeDocumentMoniker": "CrudEmpleadoEF\\Controllers\\EmpleadoController.cs",
+              "ToolTip": "C:\\Users\\tomas\\Downloads\\EjerciciosDeProgramacion\\CRUD_ENTITY_FRAMEWORK\\CrudEmpleadoEF\\CrudEmpleadoEF\\Controllers\\EmpleadoController.cs",
+              "RelativeToolTip": "CrudEmpleadoEF\\Controllers\\EmpleadoController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAiwBEAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T18:31:53.336Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
