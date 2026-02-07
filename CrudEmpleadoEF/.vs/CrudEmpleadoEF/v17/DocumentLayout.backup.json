@@ -7,20 +7,24 @@
       "RelativeMoniker": "D:0:0:{74583B32-DABA-4127-95ED-FEDE77E41C6E}|CrudEmpleadoEF\\CrudEmpleadoEF.csproj|solutionrelative:crudempleadoef\\views\\empleado\\listaempleados.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{74583B32-DABA-4127-95ED-FEDE77E41C6E}|CrudEmpleadoEF\\CrudEmpleadoEF.csproj|c:\\users\\tomas\\downloads\\ejerciciosdeprogramacion\\crud_entity_framework\\crudempleadoef\\crudempleadoef\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{74583B32-DABA-4127-95ED-FEDE77E41C6E}|CrudEmpleadoEF\\CrudEmpleadoEF.csproj|solutionrelative:crudempleadoef\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{74583B32-DABA-4127-95ED-FEDE77E41C6E}|CrudEmpleadoEF\\CrudEmpleadoEF.csproj|c:\\users\\tomas\\downloads\\ejerciciosdeprogramacion\\crud_entity_framework\\crudempleadoef\\crudempleadoef\\views\\empleado\\nuevoempl.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{74583B32-DABA-4127-95ED-FEDE77E41C6E}|CrudEmpleadoEF\\CrudEmpleadoEF.csproj|solutionrelative:crudempleadoef\\views\\empleado\\nuevoempl.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{74583B32-DABA-4127-95ED-FEDE77E41C6E}|CrudEmpleadoEF\\CrudEmpleadoEF.csproj|c:\\users\\tomas\\downloads\\ejerciciosdeprogramacion\\crud_entity_framework\\crudempleadoef\\crudempleadoef\\views\\empleado\\editarempl.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{74583B32-DABA-4127-95ED-FEDE77E41C6E}|CrudEmpleadoEF\\CrudEmpleadoEF.csproj|solutionrelative:crudempleadoef\\views\\empleado\\editarempl.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{74583B32-DABA-4127-95ED-FEDE77E41C6E}|CrudEmpleadoEF\\CrudEmpleadoEF.csproj|c:\\users\\tomas\\downloads\\ejerciciosdeprogramacion\\crud_entity_framework\\crudempleadoef\\crudempleadoef\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{74583B32-DABA-4127-95ED-FEDE77E41C6E}|CrudEmpleadoEF\\CrudEmpleadoEF.csproj|solutionrelative:crudempleadoef\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{74583B32-DABA-4127-95ED-FEDE77E41C6E}|CrudEmpleadoEF\\CrudEmpleadoEF.csproj|c:\\users\\tomas\\downloads\\ejerciciosdeprogramacion\\crud_entity_framework\\crudempleadoef\\crudempleadoef\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{74583B32-DABA-4127-95ED-FEDE77E41C6E}|CrudEmpleadoEF\\CrudEmpleadoEF.csproj|solutionrelative:crudempleadoef\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74583B32-DABA-4127-95ED-FEDE77E41C6E}|CrudEmpleadoEF\\CrudEmpleadoEF.csproj|c:\\users\\tomas\\downloads\\ejerciciosdeprogramacion\\crud_entity_framework\\crudempleadoef\\crudempleadoef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74583B32-DABA-4127-95ED-FEDE77E41C6E}|CrudEmpleadoEF\\CrudEmpleadoEF.csproj|solutionrelative:crudempleadoef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74583B32-DABA-4127-95ED-FEDE77E41C6E}|CrudEmpleadoEF\\CrudEmpleadoEF.csproj|c:\\users\\tomas\\downloads\\ejerciciosdeprogramacion\\crud_entity_framework\\crudempleadoef\\crudempleadoef\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74583B32-DABA-4127-95ED-FEDE77E41C6E}|CrudEmpleadoEF\\CrudEmpleadoEF.csproj|solutionrelative:crudempleadoef\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,45 +34,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\tomas\\Downloads\\EjerciciosDeProgramacion\\CRUD_ENTITY_FRAMEWORK\\CrudEmpleadoEF\\CrudEmpleadoEF\\appsettings.json",
-              "RelativeDocumentMoniker": "CrudEmpleadoEF\\appsettings.json",
-              "ToolTip": "C:\\Users\\tomas\\Downloads\\EjerciciosDeProgramacion\\CRUD_ENTITY_FRAMEWORK\\CrudEmpleadoEF\\CrudEmpleadoEF\\appsettings.json",
-              "RelativeToolTip": "CrudEmpleadoEF\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-01-03T00:10:54.203Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "EditarEmpl.cshtml",
-              "DocumentMoniker": "C:\\Users\\tomas\\Downloads\\EjerciciosDeProgramacion\\CRUD_ENTITY_FRAMEWORK\\CrudEmpleadoEF\\CrudEmpleadoEF\\Views\\Empleado\\EditarEmpl.cshtml",
-              "RelativeDocumentMoniker": "CrudEmpleadoEF\\Views\\Empleado\\EditarEmpl.cshtml",
-              "ToolTip": "C:\\Users\\tomas\\Downloads\\EjerciciosDeProgramacion\\CRUD_ENTITY_FRAMEWORK\\CrudEmpleadoEF\\CrudEmpleadoEF\\Views\\Empleado\\EditarEmpl.cshtml",
-              "RelativeToolTip": "CrudEmpleadoEF\\Views\\Empleado\\EditarEmpl.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-02T21:54:34.356Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "NuevoEmpl.cshtml",
-              "DocumentMoniker": "C:\\Users\\tomas\\Downloads\\EjerciciosDeProgramacion\\CRUD_ENTITY_FRAMEWORK\\CrudEmpleadoEF\\CrudEmpleadoEF\\Views\\Empleado\\NuevoEmpl.cshtml",
-              "RelativeDocumentMoniker": "CrudEmpleadoEF\\Views\\Empleado\\NuevoEmpl.cshtml",
-              "ToolTip": "C:\\Users\\tomas\\Downloads\\EjerciciosDeProgramacion\\CRUD_ENTITY_FRAMEWORK\\CrudEmpleadoEF\\CrudEmpleadoEF\\Views\\Empleado\\NuevoEmpl.cshtml",
-              "RelativeToolTip": "CrudEmpleadoEF\\Views\\Empleado\\NuevoEmpl.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-30T19:18:47.58Z"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -77,22 +44,70 @@
               "RelativeDocumentMoniker": "CrudEmpleadoEF\\Views\\Empleado\\ListaEmpleados.cshtml",
               "ToolTip": "C:\\Users\\tomas\\Downloads\\EjerciciosDeProgramacion\\CRUD_ENTITY_FRAMEWORK\\CrudEmpleadoEF\\CrudEmpleadoEF\\Views\\Empleado\\ListaEmpleados.cshtml",
               "RelativeToolTip": "CrudEmpleadoEF\\Views\\Empleado\\ListaEmpleados.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-30T18:41:04.77Z",
+              "WhenOpened": "2026-02-06T18:33:22.6Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
+              "Title": "NuevoEmpl.cshtml",
+              "DocumentMoniker": "C:\\Users\\tomas\\Downloads\\EjerciciosDeProgramacion\\CRUD_ENTITY_FRAMEWORK\\CrudEmpleadoEF\\CrudEmpleadoEF\\Views\\Empleado\\NuevoEmpl.cshtml",
+              "RelativeDocumentMoniker": "CrudEmpleadoEF\\Views\\Empleado\\NuevoEmpl.cshtml",
+              "ToolTip": "C:\\Users\\tomas\\Downloads\\EjerciciosDeProgramacion\\CRUD_ENTITY_FRAMEWORK\\CrudEmpleadoEF\\CrudEmpleadoEF\\Views\\Empleado\\NuevoEmpl.cshtml",
+              "RelativeToolTip": "CrudEmpleadoEF\\Views\\Empleado\\NuevoEmpl.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-06T18:33:10.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\tomas\\Downloads\\EjerciciosDeProgramacion\\CRUD_ENTITY_FRAMEWORK\\CrudEmpleadoEF\\CrudEmpleadoEF\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CrudEmpleadoEF\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\tomas\\Downloads\\EjerciciosDeProgramacion\\CRUD_ENTITY_FRAMEWORK\\CrudEmpleadoEF\\CrudEmpleadoEF\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CrudEmpleadoEF\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-06T18:33:03.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "EmpleadoController.cs",
               "DocumentMoniker": "C:\\Users\\tomas\\Downloads\\EjerciciosDeProgramacion\\CRUD_ENTITY_FRAMEWORK\\CrudEmpleadoEF\\CrudEmpleadoEF\\Controllers\\EmpleadoController.cs",
               "RelativeDocumentMoniker": "CrudEmpleadoEF\\Controllers\\EmpleadoController.cs",
               "ToolTip": "C:\\Users\\tomas\\Downloads\\EjerciciosDeProgramacion\\CRUD_ENTITY_FRAMEWORK\\CrudEmpleadoEF\\CrudEmpleadoEF\\Controllers\\EmpleadoController.cs",
               "RelativeToolTip": "CrudEmpleadoEF\\Controllers\\EmpleadoController.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAiwBEAAABAAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-30T18:31:53.336Z"
+              "WhenOpened": "2026-02-03T20:38:23.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\Downloads\\EjerciciosDeProgramacion\\CRUD_ENTITY_FRAMEWORK\\CrudEmpleadoEF\\CrudEmpleadoEF\\Program.cs",
+              "RelativeDocumentMoniker": "CrudEmpleadoEF\\Program.cs",
+              "ToolTip": "C:\\Users\\tomas\\Downloads\\EjerciciosDeProgramacion\\CRUD_ENTITY_FRAMEWORK\\CrudEmpleadoEF\\CrudEmpleadoEF\\Program.cs",
+              "RelativeToolTip": "CrudEmpleadoEF\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T20:34:56.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\Downloads\\EjerciciosDeProgramacion\\CRUD_ENTITY_FRAMEWORK\\CrudEmpleadoEF\\CrudEmpleadoEF\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "CrudEmpleadoEF\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\tomas\\Downloads\\EjerciciosDeProgramacion\\CRUD_ENTITY_FRAMEWORK\\CrudEmpleadoEF\\CrudEmpleadoEF\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "CrudEmpleadoEF\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T20:29:30.483Z"
             }
           ]
         }
